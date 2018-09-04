@@ -1,3 +1,5 @@
+# This package is now maintaned at the [rdfjs organisation](https://github.com/rdfjs/sink).
+
 # rdf-sink
 
 [![Build Status](https://travis-ci.org/rdf-ext/rdf-sink.svg?branch=master)](https://travis-ci.org/rdf-ext/rdf-sink)
